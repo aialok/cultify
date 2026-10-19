@@ -2,6 +2,8 @@
 
 Automated Cult.fit class booking system using GitHub Actions.
 
+> ⭐ **If Cultify saves you a morning slot, star the repo.** It takes one click and helps others find it.
+
 ## Overview
 
 Cultify is an automation tool that books fitness classes at Cult.fit centers. It authenticates using browser session cookies and runs automatically via GitHub Actions, eliminating the need for manual booking.
